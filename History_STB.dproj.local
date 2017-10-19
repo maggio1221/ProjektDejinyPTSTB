@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/09/02 17:30:25.000.429,=C:\Users\NATO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 21:06:29.000.642,=C:\Users\NATO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 21:15:30.000.105,D:\Programovanie\Projkt Dejiny\Src\UnitMaineForm.dfm=C:\Users\NATO\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/11/11 21:15:30.000.105,D:\Programovanie\Projkt Dejiny\Src\UnitMaineForm.pas=C:\Users\NATO\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/11 21:15:32.000.329,D:\Programovanie\Projkt Dejiny\Src\Project1.dproj=C:\Users\NATO\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/11/13 16:04:54.000.603,D:\Programovanie\Projkt Dejiny\Src\History_STB.dproj=D:\Programovanie\Projkt Dejiny\Src\Project1.dproj</Transaction>
+    <Transaction>2016/11/30 21:40:58.000.415,=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2016/11/30 21:41:26.000.057,D:\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Programovanie\Projkt Dejiny\Src\UnitCommon.pas</Transaction>
+    <Transaction>2016/12/08 21:56:59.000.334,=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2016/12/08 22:04:56.000.602,D:\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Programovanie\Projkt Dejiny\Src\UnitDMForMain.pas</Transaction>
+    <Transaction>2016/12/08 22:04:56.000.641,D:\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Programovanie\Projkt Dejiny\Src\UnitDMForMain.dfm</Transaction>
+    <Transaction>2016/12/11 19:03:47.000.753,=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2016/12/11 19:04:26.000.093,D:\Programovanie\Projkt Dejiny\Src\UnitAddHisObd.dfm=D:\Programovanie\Projkt Dejiny\Src\Unit1.dfm</Transaction>
+    <Transaction>2016/12/11 19:04:26.000.093,D:\Programovanie\Projkt Dejiny\Src\UnitAddHisObd.pas=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2016/12/22 22:27:16.000.922,=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2016/12/22 22:28:46.000.801,D:\Programovanie\Projkt Dejiny\Src\UnitHUDL.dfm=D:\Programovanie\Projkt Dejiny\Src\Unit1.dfm</Transaction>
+    <Transaction>2016/12/22 22:28:46.000.801,D:\Programovanie\Projkt Dejiny\Src\UnitHUDL.pas=D:\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/02/24 12:23:13.000.905,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/02/24 12:23:22.000.984,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitBaseForm.pas</Transaction>
+    <Transaction>2017/02/24 12:23:22.000.984,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitBaseForm.dfm</Transaction>
+    <Transaction>2017/02/24 22:37:00.000.376,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/02/24 22:37:52.000.430,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitHisOsoba.dfm</Transaction>
+    <Transaction>2017/02/24 22:37:52.000.430,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitHisOsoba.pas</Transaction>
+    <Transaction>2017/02/26 12:21:26.000.153,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/02/26 12:21:56.000.280,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDataConsolidation.dfm</Transaction>
+    <Transaction>2017/02/26 12:21:56.000.280,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDataConsolidation.pas</Transaction>
+    <Transaction>2017/04/15 16:11:26.000.354,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/04/15 16:12:02.000.177,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitHisObd.dfm</Transaction>
+    <Transaction>2017/04/15 16:12:02.000.177,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitHisObd.pas</Transaction>
+    <Transaction>2017/10/12 20:55:42.000.686,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/12 20:56:12.000.515,D:\Palino\Programovanie\Projkt Dejiny\Src\UnitBaseFormData.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm</Transaction>
+    <Transaction>2017/10/12 20:56:12.000.515,D:\Palino\Programovanie\Projkt Dejiny\Src\UnitBaseFormData.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/12 21:32:31.000.882,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/12 21:33:07.000.760,D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDM3DView.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm</Transaction>
+    <Transaction>2017/10/12 21:33:07.000.760,D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDM3DView.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/19 20:13:23.000.843,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/19 20:13:59.000.212,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDMGrid.pas</Transaction>
+    <Transaction>2017/10/19 20:13:59.000.212,D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.dfm=D:\Palino\Programovanie\Projkt Dejiny\Src\UnitDMGrid.dfm</Transaction>
+    <Transaction>2017/10/19 20:20:27.756,=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+    <Transaction>2017/10/19 20:20:44.114,D:\Palino\Programovanie\Projkt Dejiny\Src\UnitVTTree.pas=D:\Palino\Programovanie\Projkt Dejiny\Src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
